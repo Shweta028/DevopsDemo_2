@@ -1,0 +1,7 @@
+def add_message():
+    print("Add message here")
+<<<<<<< HEAD
+    print("This is a Change by Kane")
+=======
+    print("This is a Change by Harry")
+>>>>>>> Harry-branch
